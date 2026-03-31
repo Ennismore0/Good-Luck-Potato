@@ -4,3 +4,6 @@ Adds a new potato, a very realistic potato! But that’s just the start—now yo
 
 ### **[- Requires Fabric API! -](https://modrinth.com/mod/fabric-api)**
 ### **[Also be sure to check out the main Modrinth page!](https://modrinth.com/mod/good-luck-potato-ennismore)**
+
+<img width="500" height="ee" alt="Feature Image" src="https://github.com/user-attachments/assets/9b795021-ca3c-4987-a004-1eca624e9efa" />
+
